@@ -1,0 +1,14 @@
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\bin\Debug\net6.0\SalesSystem.Entity.deps.json
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\bin\Debug\net6.0\SalesSystem.Entity.runtimeconfig.json
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\bin\Debug\net6.0\SalesSystem.Entity.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\bin\Debug\net6.0\SalesSystem.Entity.pdb
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\obj\Debug\net6.0\SalesSystem.Entity.csproj.AssemblyReference.cache
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\obj\Debug\net6.0\SalesSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\obj\Debug\net6.0\SalesSystem.Entity.AssemblyInfoInputs.cache
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\obj\Debug\net6.0\SalesSystem.Entity.AssemblyInfo.cs
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\obj\Debug\net6.0\SalesSystem.Entity.csproj.CoreCompileInputs.cache
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\obj\Debug\net6.0\SalesSystem.Entity.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\obj\Debug\net6.0\refint\SalesSystem.Entity.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\obj\Debug\net6.0\SalesSystem.Entity.pdb
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\obj\Debug\net6.0\SalesSystem.Entity.genruntimeconfig.cache
+C:\personal\projects\.net\SalesSystem\SalesSystem.Entity\obj\Debug\net6.0\ref\SalesSystem.Entity.dll

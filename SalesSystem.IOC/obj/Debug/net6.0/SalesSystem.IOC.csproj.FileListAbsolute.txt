@@ -1,0 +1,12 @@
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\bin\Debug\net6.0\SalesSystem.IOC.deps.json
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\bin\Debug\net6.0\SalesSystem.IOC.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\bin\Debug\net6.0\SalesSystem.IOC.pdb
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\obj\Debug\net6.0\SalesSystem.IOC.csproj.AssemblyReference.cache
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\obj\Debug\net6.0\SalesSystem.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\obj\Debug\net6.0\SalesSystem.IOC.AssemblyInfoInputs.cache
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\obj\Debug\net6.0\SalesSystem.IOC.AssemblyInfo.cs
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\obj\Debug\net6.0\SalesSystem.IOC.csproj.CoreCompileInputs.cache
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\obj\Debug\net6.0\SalesSystem.IOC.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\obj\Debug\net6.0\refint\SalesSystem.IOC.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\obj\Debug\net6.0\SalesSystem.IOC.pdb
+C:\personal\projects\.net\SalesSystem\SalesSystem.IOC\obj\Debug\net6.0\ref\SalesSystem.IOC.dll

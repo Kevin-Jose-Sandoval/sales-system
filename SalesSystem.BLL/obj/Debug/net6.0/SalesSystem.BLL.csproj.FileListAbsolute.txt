@@ -1,0 +1,12 @@
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\bin\Debug\net6.0\SalesSystem.BLL.deps.json
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\bin\Debug\net6.0\SalesSystem.BLL.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\bin\Debug\net6.0\SalesSystem.BLL.pdb
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\SalesSystem.BLL.csproj.AssemblyReference.cache
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\SalesSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\SalesSystem.BLL.AssemblyInfoInputs.cache
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\SalesSystem.BLL.AssemblyInfo.cs
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\SalesSystem.BLL.csproj.CoreCompileInputs.cache
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\SalesSystem.BLL.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\refint\SalesSystem.BLL.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\SalesSystem.BLL.pdb
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\ref\SalesSystem.BLL.dll
