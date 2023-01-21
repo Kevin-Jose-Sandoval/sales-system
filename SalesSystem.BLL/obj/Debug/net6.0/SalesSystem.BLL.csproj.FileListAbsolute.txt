@@ -10,3 +10,8 @@ C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\SalesSyst
 C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\refint\SalesSystem.BLL.dll
 C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\SalesSystem.BLL.pdb
 C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\ref\SalesSystem.BLL.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\bin\Debug\net6.0\SalesSystem.DAL.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\bin\Debug\net6.0\SalesSystem.Entity.dll
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\bin\Debug\net6.0\SalesSystem.DAL.pdb
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\bin\Debug\net6.0\SalesSystem.Entity.pdb
+C:\personal\projects\.net\SalesSystem\SalesSystem.BLL\obj\Debug\net6.0\SalesSystem.BLL.csproj.CopyComplete
